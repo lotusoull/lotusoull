@@ -4,3 +4,4 @@
 - ✨ 𝐜𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧 𝐚𝐧𝐝 𝐟𝐨𝐫𝐠𝐢𝐯𝐞𝐧 𝐬𝐢𝐧𝐧𝐞𝐫
 - 💼 @larcooperativa 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotusoull&theme=midnight-purple&show_icons=true)
