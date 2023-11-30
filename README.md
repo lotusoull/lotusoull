@@ -7,3 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotusoull&theme=midnight-purple&show_icons=true)
 
 <img style="center" src="https://static.vecteezy.com/system/resources/previews/012/681/764/original/calligraphic-swirl-border-free-png.png" width="150p'300x">
+
+<img style="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150p'300x">
+
+<img style="center" src="" width="150p'300x">
